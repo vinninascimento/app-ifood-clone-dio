@@ -10,11 +10,11 @@
 
 ## EndPoints
 
-| NOME         | ENDPOINT                                                                      |
 
+| NOME         | ENDPOINT                                                                      |
+| ------------ | ----------------------------------------------------------------------------- |
 | GERAL        | http://my-json-server.typicode.com/pablohdev/app-ifood-clone/db               |
 | BANNERS      | http://my-json-server.typicode.com/pablohdev/app-ifood-clone/banner_principal |
 | CATEGORIAS   | http://my-json-server.typicode.com/pablohdev/app-ifood-clone/categorias       |
 | RESTAURANTES | http://my-json-server.typicode.com/pablohdev/app-ifood-clone/restaurantes     |
-
 
